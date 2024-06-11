@@ -14,7 +14,7 @@ Features
 **User-Friendly Interface:** 
         Navigating JavaBank is smoother than butter on a hot griddle. 💻
 
-**Account Management: **
+**Account Management:**
         Create, update, and delete accounts with the snap of your fingers. It's that easy! ✨
 
 **Transaction History:**
