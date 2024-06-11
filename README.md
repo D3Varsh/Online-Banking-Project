@@ -10,9 +10,12 @@ Features
 
 **Secure Transactions:**     
         Your money is as safe as Fort Knox, thanks to our top-notch encryption and security protocols. 🔒
+
 **User-Friendly Interface:** 
         Navigating JavaBank is smoother than butter on a hot griddle. 💻
+
 **Account Management: **
         Create, update, and delete accounts with the snap of your fingers. It's that easy! ✨
+
 **Transaction History:**
         Keep track of every penny with our detailed transaction logs. No more mystery charges! 📜
